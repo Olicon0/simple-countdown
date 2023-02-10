@@ -9,4 +9,6 @@ for x in range( my_time, 0, -1):
     print(f'{hours:02}:{minutes: 02}:{seconds:02}')
     time.sleep(1)
 
-print('done')
+print('time is up')
+
+
